@@ -15,5 +15,5 @@ sequenceDiagram
         wining plan ->> wining plan: LO?
         wining plan ->> wining plan: That's are Not combat damege?
     end
-    wining plan -->> General: My plan is LO
+    wining plan -->> General: My plan is LO???hmm...
     wining plan ->> General: My plan is Not combat damege
