@@ -1,4 +1,4 @@
-h2. 構築の考え方
+edh. 構築の考え方
 
 ```mermaid
 sequenceDiagram
