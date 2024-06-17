@@ -1,3 +1,6 @@
+h2. 構築の考え方
+
+```mermaid
 sequenceDiagram
  autonumber
     General ->> color: what's this your like color?
