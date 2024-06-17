@@ -1,4 +1,4 @@
-,,,mermaid
+```mermaid
 flowchart TD
     バックアップ取得 -- "取得したバックアップをnewに投入" -->サーバをシャットダウン_新
     subgraph 移行元サーバ対応
